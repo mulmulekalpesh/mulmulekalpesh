@@ -1,7 +1,6 @@
 ![Alt Text](20211220_1937583.gif)
 
-<p><img src='//20211220_1936512.svg'></p>?
-![Alt text](./20211220_1936512.svg)
+![](https://raw.github.com/mulmulekalpesh/20211220_1936512.svg?sanitize=true)
 
 ### Hi there👋
 
