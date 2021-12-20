@@ -1,6 +1,6 @@
 ![Alt Text](20211220_1937583.gif)
 
-![](https://github.com/mulmulekalpesh/mulmulekalpesh/blob/main/20211220_1936512.svg?sanitize=true)
+![](https://github.com/mulmulekalpesh/mulmulekalpesh/blob/main/20211220_1936512.svg)
 
 
 https://github.com/mulmulekalpesh/mulmulekalpesh/blob/main/20211220_1936512.svg
