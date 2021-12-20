@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there👋
+
+### I'm Kalpesh Mulmule
+
+
+### Welcome to my GitHub profile.....
+
+#### I'm currently pursuing MSc Data Analytics from Christ University, Bengaluru.
+#### I'm passionate about Data Science, Machine Learning field and I want to make my career in the same.
 
 <!--
 **mulmulekalpesh/mulmulekalpesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
