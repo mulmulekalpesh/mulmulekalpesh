@@ -1,16 +1,5 @@
 ![Alt Text](20211220_1937583.gif)
 
-<img src = "https://github.com/mulmulekalpesh/mulmulekalpesh/blob/main/20211220_1936512.svg"/>
-
-
-https://github.com/mulmulekalpesh/mulmulekalpesh/blob/main/20211220_1936512.svg
-
-### Hi there👋
-
-### I'm Kalpesh Mulmule
-
-
-### Welcome to my GitHub profile.....
 
 #### I'm currently pursuing MSc Data Analytics from Christ University, Bengaluru.
 #### I'm passionate about Data Science, Machine Learning field and I want to make my career in the same.
