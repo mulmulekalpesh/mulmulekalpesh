@@ -1,7 +1,7 @@
 ![Alt Text](20211220_1937583.gif)
 
 
-#### MSc Data Analytics from Christ University, Bengaluru.
+#### MSc Data Analytics from Christ University, Bangalore.
 #### I'm passionate about Data Science, Machine Learning field and I want to make my career in the same.
 
 <!--
